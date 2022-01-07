@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\User\source\repos\hastane\hastane\obj\Debug\hastane.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hastane\hastane\obj\Debug\hastane.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\User\source\repos\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\hastane\hastane\obj\Debug\hastane.csproj.CopyComplete
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\EPPlus.Core.dll
+C:\Users\User\source\repos\hastane\hastane\bin\Debug\EPPlus.Core.xml
